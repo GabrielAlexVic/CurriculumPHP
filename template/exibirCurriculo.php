@@ -34,7 +34,7 @@
                             <label for="email">Email:</label>
                             <?php 
                                 foreach ($_POST['email'] as $key => $value) {
-                                    echo "<input type='text' class='form-control' name='$key' value='$value' readonly>";
+                                    echo "<input type='text' class='form-control mt-1' name='$key' value='$value' readonly>";
                                 }
                             ?>
                         </div>
@@ -44,7 +44,7 @@
                             <label for="endereco">Endereço:</label>
                             <?php 
                                 foreach ($_POST['endereco'] as $key => $value) {
-                                    echo "<input type='text' class='form-control' name='$key' value='$value' readonly>";
+                                    echo "<input type='text' class='form-control mt-1' name='$key' value='$value' readonly>";
                                 }
                             ?>
                         </div>
@@ -54,7 +54,7 @@
                             <label for="telefone">Telefone:</label>
                             <?php 
                                 foreach ($_POST['telefone'] as $key => $value) {
-                                    echo "<input type='text' class='form-control' name='$key' value='$value' readonly>";
+                                    echo "<input type='text' class='form-control mt-1' name='$key' value='$value' readonly>";
                                 }
                             ?>
                         </div>
@@ -64,7 +64,7 @@
                             <label for="experiencia">Experiência:</label>
                             <?php 
                                 foreach ($_POST['experiencia'] as $key => $value) {
-                                    echo "<input type='text' class='form-control' name='$key' value='$value' readonly>";
+                                    echo "<input type='text' class='form-control mt-1' name='$key' value='$value' readonly>";
                                 }
                             ?>
                         </div>
