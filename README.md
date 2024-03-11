@@ -1,4 +1,4 @@
 # CurriculumPHP
 
-Aluno: Gabriel Alexandre Victório
-RA: 233138-1
+# Aluno: Gabriel Alexandre Victório
+# RA: 233138-1
