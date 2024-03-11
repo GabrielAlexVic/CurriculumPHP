@@ -1,0 +1,12 @@
+body {
+    width: 100vw;
+    min-height: 100vh;
+    background: linear-gradient(120deg, rgb(0, 0, 0) 0%, rgb(79, 0, 66) 80%, rgb(101, 0, 119) 100%, rgb(100, 14, 185));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card.card_background {
+    background-color: rgb(206, 206, 206);
+}
